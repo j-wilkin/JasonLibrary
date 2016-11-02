@@ -1,0 +1,1 @@
+../../../GoogleAPIClientForREST/Source/GeneratedServices/Books/GTLRBooksService.h
